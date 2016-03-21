@@ -46,7 +46,7 @@ const (
 )
 */
 
-//////////////  Scopes
+/*   OAUTH2 SCOPES   */
 var (
 	SCOPES = []string{""}
 	ADF2_EP = "https://adf2.run.asv-pr.ice.predix.io/sn"
